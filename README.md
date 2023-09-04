@@ -22,7 +22,7 @@ You can try out the live demo of the stopwatch application [here](https://22pank
 
 ## Screenshots
 
-Included relevant screenshots of the application here if available.
+Included relevant screenshots of the application here.
 
 ![1 Screenshot 2023-09-04 ](https://github.com/22pankajsahu/m6Day14ClassChallenge/assets/135128502/5d97c79d-7047-453d-8ce0-231eee5e48cb)
 
